@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="2D moving car design/2D moving car design.vcxproj" Id="9e634974-e406-4a40-b607-6642426e6938" />
+</Solution>
